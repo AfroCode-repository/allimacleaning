@@ -100,13 +100,7 @@
                 <div class="row g-0">
                     <?php for ($i = 1; $i < 10; $i++){ ?>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="webSite/img/portfolio/<?=$i;?>-min.jpg" title="Img <?=$i;?>">
-                            <img class="img-fluid" src="webSite/img/portfolio/<?=$i;?>-min.jpg" alt="..." />
-                            <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Store</div>
-                                <div class="project-name">Img <?=$i;?></div>
-                            </div>
-                        </a>
+                        <img style="padding: 5px" class="img-fluid" src="webSite/img/portfolio/<?=$i;?>-min.jpg" alt="..." />
                     </div>
                    <?php }?>
                     
@@ -164,5 +158,13 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- SimpleLightbox plugin JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="webSite/js/scripts.js"></script>
+        <script src="webSite/js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
