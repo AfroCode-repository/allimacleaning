@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Troubleshooting techniques - rug maintenance, building, windows, carpet cleaning, janitorial service, floor waxing, power wash.">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta name="author" content="AfroCode" />        
+        <meta name="author" content="AfroCode" />
 
         <title>Allima Cleaning Services LLC</title>
         <!-- Favicon-->
@@ -66,7 +66,7 @@
                         </div>
                         <p class="mb-4">
                             Dear Sirs, 
-                            We would like to take this opportunity to introduce Allima Cleaning Services LLC. My name is Allisgton Marcio de Lima, president of Allima Cleaning LLC. Our organization provides specialized cleaning, detailing, janitorial services and daily or nightly maintenance services for companies of all sizes. We count with over 11 years of excellence experience. Some of the many services that we offer include rug maintenance, building, windows, carpet cleaning, janitorial service, floor waxing, power wash.
+                            We would like to take this opportunity to introduce Allima Cleaning Services LLC. My name is Allisgton Marcio de Lima, president of Allima Cleaning LLC. Our organization provides specialized cleaning, detailing, janitorial services and daily or nightly maintenance services for companies of all sizes. We count with over <?=date("Y")-2010;?> years of excellence experience. Some of the many services that we offer include rug maintenance, building, windows, carpet cleaning, janitorial service, floor waxing, power wash.
                             At Allima Cleaning Services LLC we have a prepared team that delivers strong work ethics with an accurate attention to details.
                             We are fully insured and trained in equipment and product usage, as well as trouble shooting techniques to ensure every job is done efficiently.
                             I appreciate this opportunity to introduce my company and services. It would be my pleasure to provide you with proposals for any upcoming projects that fit into our range of expertise. I feel that we can offer our clients quality work at competitive pricing. 
